@@ -39,7 +39,7 @@ Task-4-Login-Page/
 ![Desktop View](DesktopOp.png)
 
 ### Mobile View
-![Mobile View](Mobileop.png)
+![Mobile View](MobileOp.png)
 
 ## 👨‍💻 Developed By
 **Deepesh V**
