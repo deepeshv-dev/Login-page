@@ -36,10 +36,10 @@ Task-4-Login-Page/
 
 ## 📸 Screenshots
 ### Desktop View
-![Desktop View](desktopOp.png)
+![Desktop View](DesktopOp.png)
 
 ### Mobile View
-![Mobile View](mobileop.png)
+![Mobile View](Mobileop.png)
 
 ## 👨‍💻 Developed By
 **Deepesh V**
